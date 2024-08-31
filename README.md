@@ -1,0 +1,1 @@
+[![CI Build](https://github.com/Jesper9108/testing-spring-boot-presentation/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/Jesper9108/testing-spring-boot-presentation/actions/workflows/ci.yml)
