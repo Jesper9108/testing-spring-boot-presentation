@@ -6,7 +6,7 @@ on:
       - '**'
 jobs:
   build:
-    name: Maven Build
+    name: Gradle testing
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
